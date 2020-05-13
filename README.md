@@ -7,7 +7,7 @@ In May 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52621747) on the
 ## Get the data
 
 * [Slides, datasets and transcripts to accompany coronavirus press conferences](https://www.gov.uk/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences)
-* TBC
+* [Coronavirus (COVID-19) transport data: methodology note](https://www.gov.uk/government/publications/coronavirus-covid-19-transport-data-methodology-note)
 
 ## Quotes and interviews
 
